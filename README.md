@@ -4,7 +4,10 @@
 
 팀원: 김인영
 
-#### 1) 새로운 저장소 생성
+![제목](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png, github_title)
+<br/>
+
+#### 새로운 저장소 생성
 - .git 하위 디렉토리 생성 (폴더를 만든 후, 그 안에서 명령 실행 => 새로운 git저장소 생성)
 
 ```
