@@ -1,11 +1,18 @@
 ## 와이빅타 git 사용 과제
 
+<p align="right">
 과제: 팀원과 git push / pull 해보기
+</p>
 
+<p align="right">
 팀원: 김인영
+</p>
 
-![제목](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png, github_title)
-<br/>
+<p align="center">
+  <img src="https://github.com/smthswt/ybigta_git_Innyy_hhk/assets/108119782/76e3f78a-8417-44aa-8939-b0822b746451">
+</p>
+
+---
 
 #### 새로운 저장소 생성
 - .git 하위 디렉토리 생성 (폴더를 만든 후, 그 안에서 명령 실행 => 새로운 git저장소 생성)
